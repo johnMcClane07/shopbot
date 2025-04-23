@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Token files / secrets
+tokens.json
+*.secret
+*.myenv
+.env.*
+.myenv
+
+# Cache / Pip
+pip-wheel-metadata/
+*.cache
+*.bak
+
+# Byte-compiled / debug
+*.swp
+*.swo
+*.tmp
+
+# Databases / Dumps
+*.sqlite3
+*.db
+*.sql
+*.sqbpro
+
+
+# System junk
+Thumbs.db
+desktop.ini
+
+# aiogram FSM storage (if using file backend)
+state_data.json
+fsm_data.json
+
+# Optional:
+# Logs / Reports
+logs/
+*.log

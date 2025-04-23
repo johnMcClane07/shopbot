@@ -1,0 +1,3 @@
+BOT_TOKEN='7780012091:AAGzXxR4dxx6zEI7ZgrBM_ddpMj4RfdonnQ'
+ADMIN_IDS = {447821115}  
+DB_PATH = "tgshop.db"
